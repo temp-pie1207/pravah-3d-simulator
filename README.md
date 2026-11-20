@@ -5,6 +5,7 @@
   [![3D Simulator](https://img.shields.io/badge/3D_Simulator-Live_WebGL-FF6D00?style=for-the-badge&logo=three.js&logoColor=white)](https://pravah-3d-simulator.vercel.app)
   [![TraffiSense Dashboard](https://img.shields.io/badge/Operations_Dashboard-TraffiSense-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://traffisense-dashboard.vercel.app)
   [![Core CV Engine](https://img.shields.io/badge/Vision_Engine-TraffiSense-blue?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/temp-pie1207/traffic-violation-system)
+  [![Demo Videos](https://img.shields.io/badge/Demo_Videos-Play_%26_Download-E11D48?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/temp-pie1207/traffic-violation-system#--demo-videos--benchmark-clips)
   [![Three.js](https://img.shields.io/badge/Three.js-WebGL_Interactive-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -15,7 +16,8 @@
   <p align="center">
     <a href="https://pravah-3d-simulator.vercel.app"><strong>🚗 Launch 3D Simulation (Vercel) ↗</strong></a> •
     <a href="https://traffisense-dashboard.vercel.app">Operations Dashboard</a> •
-    <a href="https://github.com/temp-pie1207/traffic-violation-system">Computer Vision Core</a>
+    <a href="https://github.com/temp-pie1207/traffic-violation-system">Computer Vision Core</a> •
+    <a href="https://github.com/temp-pie1207/traffic-violation-system/tree/main/videos_final"><strong>🎬 Demo Videos & Footage ↗</strong></a>
   </p>
 
 </div>
@@ -67,6 +69,31 @@ The simulation features real-time glassmorphism HUD overlays:
 4. **Active Violation Banner**: Real-time alerts when a vehicle crosses the virtual stop line on red or violates safety norms.
 5. **Interactive Vehicle Dossier**: Displays license plate (e.g. `MH 46 AX 4296`), velocity in km/h, lane assignment, and compliance state.
 6. **Evidentiary Challan Drawer**: Official e-challan slip rendered with Motor Vehicles Act sections, penalty amount, and high-contrast digital watermark.
+
+---
+
+## ✦ Real-World Benchmark Videos & Test Clips
+
+The companion Computer Vision pipeline repository hosts **8 curated real-world traffic video clips** (1080p / 480p) featuring red-light runners, helmet violations, and CCTV triple-riding footage that drive this simulator's AI telemetry:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Red Light Detection</b></td>
+      <td align="center"><b>CCTV Triple-Riding</b></td>
+      <td align="center"><b>Signal State Tracking</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/temp-pie1207/traffic-violation-system/main/videos_final/preview_redlight.gif" width="260" alt="Red Light Jumping"/></td>
+      <td><img src="https://raw.githubusercontent.com/temp-pie1207/traffic-violation-system/main/videos_final/preview_triple_riding.gif" width="260" alt="Triple Riding CCTV"/></td>
+      <td><img src="https://raw.githubusercontent.com/temp-pie1207/traffic-violation-system/main/videos_final/preview_ai_detection.gif" width="260" alt="AI Signal Detection"/></td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <a href="https://github.com/temp-pie1207/traffic-violation-system/tree/main/videos_final"><strong>📁 Browse, Stream & Download All 8 Demo Video Clips on GitHub ↗</strong></a>
+  </p>
+</div>
 
 ---
 
